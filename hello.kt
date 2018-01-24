@@ -1,4 +1,4 @@
-fun main(args: Array<String>)
+eeeefun main(args: Array<String>)
 {
-    println("HELLO WORLD")
+    println("eeeeeeeeeeeeeeeeeee WORLD")
 }
